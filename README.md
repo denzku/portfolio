@@ -43,6 +43,5 @@ These small-scale projects simulate real-life work scenarios where I follow spec
 For more information, please reach out:
 
 - [LinkedIn](https://www.linkedin.com/in/deniz-kuloglu/)
-- [GitHub](https://github.com/denzku)
 - [Tableau](https://public.tableau.com/app/profile/deniz.kulo.lu/vizzes)
 - Email: denizkuloglu4@gmail.com
