@@ -44,4 +44,4 @@ For more information, please reach out:
 
 - [LinkedIn](https://www.linkedin.com/in/deniz-kuloglu/)
 - [Tableau](https://public.tableau.com/app/profile/deniz.kulo.lu/vizzes)
-- Email: denizkuloglu4@gmail.com
+- denizkuloglu4@gmail.com
