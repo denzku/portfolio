@@ -62,6 +62,7 @@ These variations likely reflect the different work schedules, stress levels, and
 
 ### Gender and Sleep Disorders ###
 ![alt text](../sleep-analysis/graphs/sleep_disorder_distribution_by_gender.png)
+
 The distribution of sleep disorders shows notable gender differences:
 - Sleep Apnea appears more prevalent in males
 - Insomnia rates are relatively balanced between genders
