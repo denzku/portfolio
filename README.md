@@ -20,12 +20,21 @@ This project is a comprehensive analysis of the leading causes of death in Russi
    - **Regional Comparisons**: Comparative analysis of Russia with Eastern Europe, Japan with Asia, and the United States with America, providing insights into similarities and contrasts within and across regions.
    - **Continental Comparison via Heatmap**: A final comparative heatmap, visualizing differences in death causes across continents and showing a comprehensive view of global health inequalities.
 
-### 2. Exams
+### 2. Sleep Analysis  
+This project analyzes the relationships between sleep quality, health metrics, and lifestyle factors using a detailed dataset. Key findings include:  
+
+- **Correlation Analysis**: Strong correlations, such as sleep duration and quality (r = 0.883), and the negative impact of stress on sleep metrics (r = -0.731).  
+- **Stress and Occupation**: Stress negatively affects sleep, while structured work schedules (e.g., engineers) are linked to better sleep compared to irregular schedules (e.g., healthcare professionals).  
+- **Gender and Age**: Females show higher overall sleep disorder rates. Older adults report better sleep quality, likely due to lower stress levels.  
+
+This project highlights the interconnected nature of sleep health, demonstrating how factors like stress, occupation, and demographics influence sleep patterns. The analysis provides valuable insights for improving sleep outcomes.  
+
+### 3. Exams
 This section contains projects completed as part of DataCamp's certification exams, reflecting a mix of SQL, fundamental, and intermediate skills:
    - **Associate Exam**: This SQL-based exam emphasizes foundational data analysis skills, testing core concepts.
    - **Data Analyst Exam**: A more intermediate assessment, this exam requires a comprehensive project presentation to DataCamp reviewers, involving deeper analysis and interpretation skills.
 
-### 3. DataCamp Projects
+### 4. DataCamp Projects
 These small-scale projects simulate real-life work scenarios where I follow specific instructions to complete tasks and provide data-driven answers. Each project explores specific data analysis techniques on small datasets, reinforcing essential skills in data wrangling, visualization, and interpretation.
 
 ---
